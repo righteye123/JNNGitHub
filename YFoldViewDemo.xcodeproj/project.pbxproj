@@ -245,6 +245,7 @@
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "iPhone Distribution: Ping An Life Insurance Co., Ltd.";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Ping An Life Insurance Co., Ltd.";
+				ENABLE_BITCODE = NO;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "YFoldViewDemo/YFoldViewDemo-Prefix.pch";
 				INFOPLIST_FILE = "YFoldViewDemo/YFoldViewDemo-Info.plist";
@@ -261,6 +262,7 @@
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "iPhone Distribution: Ping An Life Insurance Co., Ltd.";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Ping An Life Insurance Co., Ltd.";
+				ENABLE_BITCODE = NO;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "YFoldViewDemo/YFoldViewDemo-Prefix.pch";
 				INFOPLIST_FILE = "YFoldViewDemo/YFoldViewDemo-Info.plist";
