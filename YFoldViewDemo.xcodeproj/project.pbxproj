@@ -16,7 +16,7 @@
 		74E79AC6159B1C9500806EC8 /* img.png in Resources */ = {isa = PBXBuildFile; fileRef = 74E79AC5159B1C9500806EC8 /* img.png */; };
 		74E79AC7159B2E6C00806EC8 /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 74E79AC4159B1BCF00806EC8 /* RootViewController.m */; };
 		74E79ACA159B2E8700806EC8 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 74E79AC9159B2E8700806EC8 /* QuartzCore.framework */; };
-		74E79AD6159B63B300806EC8 /* YFoldView.m in Sources */ = {isa = PBXBuildFile; fileRef = 74E79AD5159B63B300806EC8 /* YFoldView.m */; };
+		9CC4EE6E1D050631002D1886 /* YFoldView.m in Sources */ = {isa = PBXBuildFile; fileRef = 9CC4EE6D1D050631002D1886 /* YFoldView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,8 +34,8 @@
 		74E79AC4159B1BCF00806EC8 /* RootViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
 		74E79AC5159B1C9500806EC8 /* img.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = img.png; sourceTree = "<group>"; };
 		74E79AC9159B2E8700806EC8 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
-		74E79AD4159B63B300806EC8 /* YFoldView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = YFoldView.h; path = ../../YFoldView.h; sourceTree = "<group>"; };
-		74E79AD5159B63B300806EC8 /* YFoldView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = YFoldView.m; path = ../../YFoldView.m; sourceTree = "<group>"; };
+		9CC4EE6C1D050631002D1886 /* YFoldView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YFoldView.h; sourceTree = "<group>"; };
+		9CC4EE6D1D050631002D1886 /* YFoldView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YFoldView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,8 +84,8 @@
 		74E79AAE159B1B1600806EC8 /* YFoldViewDemo */ = {
 			isa = PBXGroup;
 			children = (
-				74E79AD4159B63B300806EC8 /* YFoldView.h */,
-				74E79AD5159B63B300806EC8 /* YFoldView.m */,
+				9CC4EE6C1D050631002D1886 /* YFoldView.h */,
+				9CC4EE6D1D050631002D1886 /* YFoldView.m */,
 				74E79AC5159B1C9500806EC8 /* img.png */,
 				74E79AB7159B1B1600806EC8 /* AppDelegate.h */,
 				74E79AB8159B1B1600806EC8 /* AppDelegate.m */,
@@ -173,7 +173,7 @@
 				74E79AC7159B2E6C00806EC8 /* RootViewController.m in Sources */,
 				74E79AB5159B1B1600806EC8 /* main.m in Sources */,
 				74E79AB9159B1B1600806EC8 /* AppDelegate.m in Sources */,
-				74E79AD6159B63B300806EC8 /* YFoldView.m in Sources */,
+				9CC4EE6E1D050631002D1886 /* YFoldView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
